@@ -1,0 +1,32 @@
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position:static;
+
+ 
+}
+
+.yellow{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  position: fixed;
+}
+
+.black{
+  width: 100px;
+  height: 100px;
+  background-color: #000000;
+  position: static;
+  color:green;
+
+}
+
+.grey{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  position: relative;
+}
+  
