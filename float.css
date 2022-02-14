@@ -1,0 +1,25 @@
+.red{
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  float: right;
+  box-shadow: 3px 5px 16px blue;
+}
+
+.yellow{
+  width: 18px;
+  height:99px;
+  background-color: yellow;
+  float: right;
+  margin-left: 100px;
+  border-radius: 1000px;
+  transform:rotate(45deg)
+}
+
+.black{
+  width: 201px;
+  height: 100px;
+  background-color: black;
+  float:right;
+  border-radius: 23px 23px 52px 52px;
+}
