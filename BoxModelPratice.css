@@ -1,0 +1,46 @@
+body{
+	margin:150px;
+}
+
+/*Styling the sky div who will be my blue sky*/
+.sky{
+	width:964px;
+	height:380px;
+	background-color:#CCF2FF;
+	padding-top:47px;
+}
+
+/*Styling the rounded yellow sun*/
+.sun{
+	width:50px;
+	height:50px;
+	background-color:#FFEC01;
+	border-radius:100%;
+	box-shadow: 3px	 3.3px 5px #E7B801;
+	margin-left:143px;
+}
+
+/*Resizing my jet image*/
+img{
+	width: 276px;
+	margin-left: 170px;
+}
+
+/*Styling the green mountains*/
+.mountain1{
+	width: 500px;
+	height: 200px;
+	background-color: green;
+	border-radius: 0 200% 0 0;
+	margin: -200px 0 0 0;
+	float: left;
+}
+
+.mountain2{
+	width: 500px;
+	height: 200px;
+	background-color: green;
+	border-radius: 200% 0 0 0;
+	margin: -200px 0 0 -235px;
+	float: right;
+}
